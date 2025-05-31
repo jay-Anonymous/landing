@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@dfinity/agent": "^0.15.7",
-    "@dfinity/candid": "^0.15.7",
+    "@dfinity/candid": "^0.21.4",
     "@dfinity/principal": "^0.15.7",
     "@material-tailwind/react": "^2.1.9",
     "clsx": "^2.1.1",
